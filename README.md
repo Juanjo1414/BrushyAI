@@ -1,4 +1,4 @@
-# BrushAI
+# Brushy AI
 
 Aplicación móvil con **IA de visión por computadora** y **gamificación** para ayudar a los niños a crear el hábito de cepillarse los dientes correctamente.
 
